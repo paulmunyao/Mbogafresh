@@ -35,4 +35,8 @@
     padding: 50px;
     opacity: 0.9;
 }
+.food{
+    border-style: groove;
+    width: 200px;
+}
 
