@@ -20,8 +20,12 @@
     padding-top: 20px;
 }
 .image{
-    height: 500px;
+    height: 600px;
+    width: 100%;
     background-image: url("images/agric\ 1.png");
     background-position: center;
     background-size: cover;
+    border: 0px;
+    background-repeat: no-repeat;
 }
+
