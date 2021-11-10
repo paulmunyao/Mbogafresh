@@ -38,5 +38,8 @@
 .food{
     border-style: groove;
     width: 200px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    opacity: 0.9;
 }
 
