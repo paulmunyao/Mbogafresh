@@ -8,6 +8,7 @@
 }
 .Nav ul{
     float: right;
+    opacity: 0.9;
 }
 .Nav li{
     display: inline;
@@ -27,5 +28,11 @@
     background-size: cover;
     border: 0px;
     background-repeat: no-repeat;
+}
+.Abt{
+    background-color: whitesmoke;
+    height: 150px;
+    padding: 50px;
+    opacity: 0.9;
 }
 
