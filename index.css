@@ -19,3 +19,9 @@
     margin-left: 10px;
     padding-top: 20px;
 }
+.image{
+    height: 500px;
+    background-image: url("images/agric\ 1.png");
+    background-position: center;
+    background-size: cover;
+}
