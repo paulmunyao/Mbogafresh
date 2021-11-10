@@ -1,0 +1,18 @@
+*body{
+    padding: 0px;
+    margin: 0px;
+}
+.Nav{
+    padding: 1px;
+    background-color: grey;
+}
+.Nav ul{
+    float: right;
+}
+.Nav li{
+    display: inline;
+    margin-right: 150px;
+    list-style: none;
+    padding: 0px;
+    justify-content: space-between;
+}
