@@ -39,8 +39,8 @@
     border-style: groove;
     width: 200px;
     margin-top: 20px;
-    background-color: whitesmoke;
-    opacity: 0.9;
+    background-color: grey;
+    opacity: 0.8;
     margin-left: 120px;
     display: inline-flex;
     justify-content: space-evenly;
@@ -49,6 +49,8 @@
     text-align: center;
 }
 .Copyright{
-    
+    text-align: center;
+    background-color: grey;
+    opacity: 0.8;
 }
 
