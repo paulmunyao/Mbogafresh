@@ -59,5 +59,8 @@
     text-decoration-style: solid;
     text-decoration-thickness: 3px;
 }
+.food:hover{
+    opacity: 1.0;
+}
 
 
